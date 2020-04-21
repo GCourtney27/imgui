@@ -10,15 +10,16 @@ Assets/
 bin/
 bin-int/
 
-# Raw Submodule files
-Engine/vendor/imgui
-
 # User-specific files
 *.rsuser
 *.suo
 *.user
 *.userosscache
 *.sln.docstates
+*.sln
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
 
 # User-specific files (MonoDevelop/Xamarin Studio)
 *.userprefs
